@@ -7,3 +7,5 @@ Statcast Bat Tracking Introduction - Mike Petriello: https://www.mlb.com/news/wh
 Statcast Data Glossary: https://baseballsavant.mlb.com/csv-docs
 
 Savant Search: https://baseballsavant.mlb.com/statcast_search
+
+Soto Stance Shift: https://www.mlb.com/mets/news/how-juan-soto-developed-his-two-strike-batting-stance
